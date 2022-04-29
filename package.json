@@ -1,12 +1,12 @@
 {
-  "name": "dimension-js-sdk",
+  "name": "@cy/dimension-js-sdk",
   "version": "2.9.1",
   "license": "Apache 2.0",
-  "description": "SDK to interact with the Dimension blockchain",
-  "homepage": "https://github.com/dimension-labs/dimension-js-sdk#README.md",
+  "description": "SDK to interact with the Dimension blockchain - just for learning",
+  "homepage": "https://github.com/devchenyan/dimension-js-sdk#README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimension-labs/dimension-js-sdk.git"
+    "url": "https://github.com/devchenyan/dimension-js-sdk.git"
   },
   "main": "dist/lib.node.js",
   "browser": "dist/lib.js",
@@ -92,7 +92,6 @@
     "@types/eccrypto": "^1.1.2",
     "@types/ws": "^8.2.2",
     "blakejs": "^1.1.0",
-    "dimension-js-sdk": "^2.9.1",
     "eccrypto": "^1.1.6",
     "eslint-plugin-prettier": "^3.4.0",
     "ethereum-cryptography": "^0.1.3",
