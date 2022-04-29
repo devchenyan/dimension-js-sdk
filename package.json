@@ -1,5 +1,5 @@
 {
-  "name": "@cy/dimension-js-sdk",
+  "name": "dimension-js-sdk-cy",
   "version": "2.9.1",
   "license": "Apache 2.0",
   "description": "SDK to interact with the Dimension blockchain - just for learning",
