@@ -13,7 +13,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "prepare": "husky-run install",
-    "prepublishOnly": "npm run build && npm run test",
+    "prepublishOnly": "npm run build",
     "lint": "eslint src/ --fix",
     "prebuild": "npm run clean",
     "build": "webpack --config webpack.config.js",
